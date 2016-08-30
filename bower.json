@@ -1,0 +1,33 @@
+{
+    "name": "ng-infinite-scroll",
+    "description": "Angular Module",
+    "version": "1.3.22",
+    "keywords": ["cit", "bootstrap", "scroll"],
+    "main": "dist/ngInfiniteScroll.js",
+    "ignore": [
+        "/.*",
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "build",
+        "speed",
+        "test",
+        "tests",
+        "*.md",
+        ".idea"
+    ],
+    "authors": [
+        {
+            "name": "Miller Augusto S. Martins",
+            "email": "miller@ciandt.com",
+            "homepage": "http://br.linkedin.com/pub/miller-augusto/2a/38b/832/"
+        }, {
+            "name": "Wallace Jackson de Magalhaes",
+            "email": "wallace@ciandt.com"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:miamarti/ng-infinite-scroll.git"
+    }
+}
